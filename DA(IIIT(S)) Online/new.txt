@@ -1,0 +1,4 @@
+data gets overwrited...!#already existed data
+hello this is new data
+I am new to programming
+working with files

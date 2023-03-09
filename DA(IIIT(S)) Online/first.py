@@ -1,0 +1,2 @@
+print("welcome to Data Analysis using python course")
+print("I am working with files")print('hello guys welcome all')print('hello guys welcome all')print('hello guys welcome all')print('hello guys welcome all')print('hello guys welcome all')
